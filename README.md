@@ -1,2 +1,2 @@
-# gui_shop_2025_jan
-GUI Shop task (SoftUni 2025 January Python Advanced course) 
+# GUI shop
+The GUI shop task for Exersise: Modules in Python Advanced Course (January 2025) @SoftUni.
