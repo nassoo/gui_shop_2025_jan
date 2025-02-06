@@ -1,3 +1,9 @@
-{"id": 1, "name": "some test", "img_path": "1.png", "count": 1}
-{"id": 2, "name": "asd", "img_path": "1.png", "count": 28}
+{"id": 1, "name": "some test", "img_path": "1.png", "count": 0}
+{"id": 2, "name": "asd", "img_path": "1.png", "count": 27}
 {"id": 3, "name": "3", "img_path": "1.png", "count": 30}
+{"id": 4, "name": "some test", "img_path": "1.png", "count": 1}
+{"id": 5, "name": "asd", "img_path": "1.png", "count": 28}
+{"id": 6, "name": "3", "img_path": "1.png", "count": 30}
+{"id": 7, "name": "some test", "img_path": "1.png", "count": 1}
+{"id": 8, "name": "asd", "img_path": "1.png", "count": 28}
+{"id": 9, "name": "3", "img_path": "1.png", "count": 30}
