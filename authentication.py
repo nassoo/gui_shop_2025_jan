@@ -36,6 +36,8 @@ def render_login_screen(error=None):
               command=lambda: login(username.get(), password.get())
               ).grid(row=2, column=0)
 
+    app.bind("<Return>", lambda event: login(username.get(), password.get()))
+
     if error:
         tk.Label(app, text=error).grid(row=3, column=0)
 
